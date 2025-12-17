@@ -182,8 +182,7 @@ int main()
 
         default:
             cout << "Invalid choices!!! please try again!!!" << endl;
+            return 0;
         }
     }
-
-    return 0;
 }
